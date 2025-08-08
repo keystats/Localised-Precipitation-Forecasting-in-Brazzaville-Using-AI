@@ -103,7 +103,6 @@ I created **rich temporal and statistical features**:
 ---
 
 ## 👨‍💻 Author
-**keystats**
 **Jackson Kahungu Njeri**  
 Data Scientist   
 📊 Focus: Data-driven forecasting, machine learning, and reasoning-based AI.
