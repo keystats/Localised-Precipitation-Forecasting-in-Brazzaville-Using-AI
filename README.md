@@ -79,8 +79,7 @@ I created **rich temporal and statistical features**:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/precipitation-forecasting.git
-   cd precipitation-forecasting
+   git clone https://github.com/keystats/Localised-Precipitation-Forecasting-in-Brazzaville-Using-AI.git
    ```
 
 2. Install dependencies:
@@ -104,8 +103,9 @@ I created **rich temporal and statistical features**:
 ---
 
 ## 👨‍💻 Author
+**keystats**
 **Jackson Kahungu Njeri**  
-Data Scientist | Zindi Competitor  
+Data Scientist   
 📊 Focus: Data-driven forecasting, machine learning, and reasoning-based AI.
 
 ---
